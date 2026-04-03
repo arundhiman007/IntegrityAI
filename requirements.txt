@@ -1,0 +1,13 @@
+torch
+transformers
+datasets
+scikit-learn
+xgboost
+fastapi
+uvicorn
+streamlit
+shap
+langchain-core
+langchain-openai
+pydantic
+python-dotenv
